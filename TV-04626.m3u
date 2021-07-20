@@ -39,8 +39,6 @@ http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 #EXTINF:-1 ,互動新聞臺
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 ,Pearl
-http://livepgc0002.sobeycache.com/live/578mzm.m3u8
 #EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 ,ViuTV Six
@@ -73,6 +71,10 @@ http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 #EXTINF:-1 ,TVBS
 http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+#EXTINF:-1 ,中视
+http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
+#EXTINF:-1 ,民视
+http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
 #EXTINF:-1 ,Animax HD
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 ,SBS
