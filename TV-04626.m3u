@@ -11,6 +11,8 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m
 http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
 #EXTINF:-1 ,CCTV13 HD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 ,CCTV奥运
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 ,廣東衛視
 http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 ,浙江衛視
@@ -47,6 +49,8 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 ,RTHK 32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 ,香港开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 ,TVBS新闻
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 ,中天新闻
