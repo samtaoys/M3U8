@@ -1,97 +1,101 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1 HD
+#EXTINF:-1,CCTV1 HD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 ,CCTV5 HD
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 ,CCTV5+HD
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 ,CCTV9 HD
+#EXTINF:-1,CCTV5 HD
+http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+#EXTINF:-1,CCTV5+HD
+http://39.134.24.24/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1,CCTV9 HD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1 ,CCTV10 HD
+#EXTINF:-1,CCTV10 HD
 http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
-#EXTINF:-1 ,CCTV13 HD
+#EXTINF:-1,CCTV13 HD
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1 ,CCTV超高清
+#EXTINF:-1,CCTV超高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 ,CCTV奥运
+#EXTINF:-1,CCTV奥运
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1 ,廣東衛視
+#EXTINF:-1,廣東衛視
 http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 ,浙江衛視
+#EXTINF:-1,浙江衛視
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:-1 ,江蘇衛視
+#EXTINF:-1,江蘇衛視
 http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 ,湖南衛視
+#EXTINF:-1,湖南衛視
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:-1 ,東方衛視
+#EXTINF:-1,東方衛視
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
-#EXTINF:-1 ,有線新聞台
+#EXTINF:-1,有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 ,無線新聞台
+#EXTINF:-1,無線新聞台
 http://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 ,Jade
+#EXTINF:-1,Jade
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 ,Pearl
+#EXTINF:-1,Pearl
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 ,J2
+#EXTINF:-1,J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 ,鳳凰中文
+#EXTINF:-1,鳳凰中文
 http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 ,鳳凰資訊
+#EXTINF:-1,鳳凰資訊
 http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 ,鳳凰香港臺
+#EXTINF:-1,鳳凰香港臺
 http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-#EXTINF:-1 ,互動新聞臺
+#EXTINF:-1,互動新聞臺
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 ,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 ,ViuTV Six
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 ,RTHK 31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 ,RTHK 32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 ,RTHK 33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 ,香港开电视
+#EXTINF:-1,香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 ,TVBS新闻
+#EXTINF:-1,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1,RTHK 31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1,RTHK 32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1,TVBS新闻
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1,中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,三立新闻
+#EXTINF:-1,三立新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,中视新闻
+#EXTINF:-1,中视新闻
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 ,台视新闻
+#EXTINF:-1,台视新闻
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,华视新闻
+#EXTINF:-1,华视新闻
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,緯來體育
+#EXTINF:-1,緯來體育
 http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-#EXTINF:-1 ,愛爾達體育1
-http://341697390.r.fdccdn.net/live/tw_elta_sports.m3u8
-#EXTINF:-1 ,愛爾達體育3
-http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-#EXTINF:-1 ,纬来电影
+#EXTINF:-1,爱尔达奥运1台
+rtmp://59.124.75.153/sat/md011
+#EXTINF:-1,爱尔达奥运2台
+rtmp://59.124.75.153/sat/md031
+#EXTINF:-1,爱尔达1台
+rtmp://59.124.75.153/sat/md041
+#EXTINF:-1,爱尔达3台
+rtmp://59.124.75.153/sat/md051
+#EXTINF:-1,Eleven2
+rtmp://59.124.75.153/sat/md021
+#EXTINF:-1,纬来电影
 http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-#EXTINF:-1 ,中天综合
+#EXTINF:-1,中天综合
 http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-#EXTINF:-1 ,TVBS
+#EXTINF:-1,TVBS
 http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-#EXTINF:-1 ,中视
+#EXTINF:-1,中视
 http://185.207.176.189:8080/channels/tw-100/playlist.m3u8
-#EXTINF:-1 ,民视
+#EXTINF:-1,民视
 http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
-#EXTINF:-1 ,Animax HD
+#EXTINF:-1,Animax HD
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 ,SBS
+#EXTINF:-1,SBS
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
-#EXTINF:-1 ,MBC
+#EXTINF:-1,MBC
 http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8
-#EXTINF:-1 ,Mnet
+#EXTINF:-1,Mnet
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
-#EXTINF:-1 ,KBS2
+#EXTINF:-1,KBS2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-#EXTINF:-1 ,JTBC
+#EXTINF:-1,JTBC
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
